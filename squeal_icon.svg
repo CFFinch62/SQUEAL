@@ -1,0 +1,23 @@
+<svg width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>SQUEAL IDE icon</title>
+<desc>A pink pig face icon on a rounded square background, representing the SQUEAL SQL IDE</desc>
+<defs>
+<linearGradient id="pigface" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#F7C7C2"/>
+<stop offset="100%" stop-color="#E89C97"/>
+</linearGradient>
+</defs>
+<rect x="0" y="0" width="300" height="300" rx="52" fill="#2A2224"/>
+<ellipse cx="102" cy="98" rx="26" ry="24" fill="url(#pigface)" stroke="#C97870" stroke-width="1.5"/>
+<ellipse cx="198" cy="98" rx="26" ry="24" fill="url(#pigface)" stroke="#C97870" stroke-width="1.5"/>
+<ellipse cx="102" cy="100" rx="12" ry="11" fill="#F0A9A4"/>
+<ellipse cx="198" cy="100" rx="12" ry="11" fill="#F0A9A4"/>
+<ellipse cx="150" cy="170" rx="90" ry="80" fill="url(#pigface)" stroke="#C97870" stroke-width="1.5"/>
+<ellipse cx="118" cy="150" rx="9" ry="12" fill="#2A2224"/>
+<ellipse cx="182" cy="150" rx="9" ry="12" fill="#2A2224"/>
+<ellipse cx="118" cy="147" rx="3" ry="4" fill="#FFF" opacity="0.7"/>
+<ellipse cx="182" cy="147" rx="3" ry="4" fill="#FFF" opacity="0.7"/>
+<ellipse cx="150" cy="200" rx="38" ry="28" fill="#E8908A" stroke="#C97870" stroke-width="1.5"/>
+<ellipse cx="134" cy="200" rx="7" ry="9" fill="#7E4A45"/>
+<ellipse cx="166" cy="200" rx="7" ry="9" fill="#7E4A45"/>
+</svg>

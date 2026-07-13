@@ -1,0 +1,29 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>SQUEAL banner</title>
+<desc>README banner for SQUEAL, the SQL IDE, showing a pig face icon beside the project name and tagline</desc>
+<defs>
+<linearGradient id="pigfaceB" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#F7C7C2"/>
+<stop offset="100%" stop-color="#E89C97"/>
+</linearGradient>
+</defs>
+<rect x="0" y="0" width="1200" height="300" rx="20" fill="#2A2224"/>
+<g transform="translate(30,20) scale(0.867)">
+<rect x="0" y="0" width="300" height="300" rx="40" fill="#31272A"/>
+<ellipse cx="102" cy="98" rx="26" ry="24" fill="url(#pigfaceB)" stroke="#C97870" stroke-width="1.5"/>
+<ellipse cx="198" cy="98" rx="26" ry="24" fill="url(#pigfaceB)" stroke="#C97870" stroke-width="1.5"/>
+<ellipse cx="102" cy="100" rx="12" ry="11" fill="#F0A9A4"/>
+<ellipse cx="198" cy="100" rx="12" ry="11" fill="#F0A9A4"/>
+<ellipse cx="150" cy="170" rx="90" ry="80" fill="url(#pigfaceB)" stroke="#C97870" stroke-width="1.5"/>
+<ellipse cx="118" cy="150" rx="9" ry="12" fill="#2A2224"/>
+<ellipse cx="182" cy="150" rx="9" ry="12" fill="#2A2224"/>
+<ellipse cx="118" cy="147" rx="3" ry="4" fill="#FFF" opacity="0.7"/>
+<ellipse cx="182" cy="147" rx="3" ry="4" fill="#FFF" opacity="0.7"/>
+<ellipse cx="150" cy="200" rx="38" ry="28" fill="#E8908A" stroke="#C97870" stroke-width="1.5"/>
+<ellipse cx="134" cy="200" rx="7" ry="9" fill="#7E4A45"/>
+<ellipse cx="166" cy="200" rx="7" ry="9" fill="#7E4A45"/>
+</g>
+<text x="300" y="145" font-family="'Segoe UI', Arial, sans-serif" font-size="72" font-weight="700" fill="#F7C7C2" letter-spacing="4">SQUEAL</text>
+<text x="302" y="185" font-family="'Segoe UI', Arial, sans-serif" font-size="22" fill="#C9A19E">SQL Interpreted Development Environment</text>
+<text x="302" y="220" font-family="'Segoe UI', Arial, sans-serif" font-size="17" fill="#8A6664">Part of the Fragillidae IDE Suite 2</text>
+</svg>
