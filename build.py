@@ -76,6 +76,8 @@ def get_args() -> list[str]:
         "--icon", "squeal_icon.png",
         "--add-data", f"squeal_icon.svg{sep}.",
         "--add-data", f"squeal_banner.svg{sep}.",
+        "--add-data", f"themes{sep}themes",
+        "--add-data", f"docs{sep}docs",
     ]
 
     if system == "Darwin":
